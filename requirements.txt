@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+python-dotenv
+litellm==1.30.0
+asyncpg
+psycopg[binary]==3.2.1
+
